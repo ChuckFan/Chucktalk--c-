@@ -1,0 +1,11 @@
+﻿生成启动时间为 2018/12/11 18:02:52。
+     1>项目“D:\c及c++\2018.12.10\三子棋\18.12.10\18.12.10.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>c1 : fatal error C1083: 无法打开源文件: “test.c”: No such file or directory
+     1>已完成生成项目“D:\c及c++\2018.12.10\三子棋\18.12.10\18.12.10.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.39
